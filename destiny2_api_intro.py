@@ -38,7 +38,7 @@ user_platform = 'psn'  #either 'psn' or 'ps4' or 'xbone' or 'xbox'  (pc is buste
 save_to_file = 0  #flag: set to 1 if you want certain bits saved to file to peruse
 
 #%% fixed parameters
-my_api_key = <my_api_key>  #put your api key here!
+my_api_key = "57255b5fa8e942daac3728c421fe97ea"  #put your api key here!
 baseurl = 'https://bungie.net/Platform/Destiny2/'
 baseurl_groupv2 = 'https://bungie.net/Platform/GroupV2/'
 
